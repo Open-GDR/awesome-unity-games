@@ -107,7 +107,7 @@ Similar list for Godot Engine: [Awesome Godot Games](https://github.com/akinmust
 - [Flipon Tiny](https://github.com/valryon/flipon-tiny) — An open-source port of [Flipon](https://www.flipon.net/), a fast paced match 3 game. ![GitHub Repo stars](https://img.shields.io/github/stars/valryon/flipon-tiny)
 - [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous Match 3 game made with Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/daltonbr/Match3)
 - [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game. ![GitHub Repo stars](https://img.shields.io/github/stars/Hyperparticle/nodulus)
-- [Open PictoPull](https://github.com/josfeldmann/Open-PictoPull) - A 3D Puzzle game based on the [Pushmo](https://en.wikipedia.org/wiki/Pushmo) series ![GitHub Repo stars](https://github.com/josfeldmann/Open-PictoPull)
+- [Open PictoPull](https://github.com/josfeldmann/Open-PictoPull) - A 3D Puzzle game based on the [Pushmo](https://en.wikipedia.org/wiki/Pushmo) series ![GitHub Repo stars](https://img.shields.io/github/stars/josfeldmann/Open-PictoPull)
 
 ### Tower Defense
 - [3D Tower Defense](https://github.com/Mohammed-Benotmane/Tower-Defense-Game) — A 3D simple tower defense game. ![GitHub Repo stars](https://img.shields.io/github/stars/Mohammed-Benotmane/Tower-Defense-Game)
