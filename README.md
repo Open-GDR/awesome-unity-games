@@ -89,7 +89,7 @@ Similar list for Godot Engine: [Awesome Godot Games](https://github.com/akinmust
 ### Simulation
 - [FyWorld](https://github.com/Fy-/FyWorld) — A discontinued base-building and simulation game. ![GitHub Repo stars](https://img.shields.io/github/stars/Fy-/FyWorld)
 - [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars) — Game-like agent based economy simulator. ![GitHub Repo stars](https://img.shields.io/github/stars/Nashet/Prosperity-Wars)
-- [OpenTS2](https://github.com/LazyDuchess/OpenTS2) — Open-source re-implementation of Sims 2 in Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyDuchess/OpenTS2)
+- [OpenTS2](https://github.com/LazyDuchess/OpenTS2) — Open-source re-implementation of Sims 2. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyDuchess/OpenTS2)
 
 ### Survival
 - [Star Travel](https://github.com/Victormaa/Star-Travel) — A 3D space themed open world survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/Victormaa/Star-Travel)
@@ -107,11 +107,11 @@ Similar list for Godot Engine: [Awesome Godot Games](https://github.com/akinmust
 - [Flipon Tiny](https://github.com/valryon/flipon-tiny) — An open-source port of [Flipon](https://www.flipon.net/), a fast paced match 3 game. ![GitHub Repo stars](https://img.shields.io/github/stars/valryon/flipon-tiny)
 - [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous Match 3 game made with Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/daltonbr/Match3)
 - [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game. ![GitHub Repo stars](https://img.shields.io/github/stars/Hyperparticle/nodulus)
-- [Open PictoPull](https://github.com/josfeldmann/Open-PictoPull) - A 3D Puzzle game based on the [Pushmo](https://en.wikipedia.org/wiki/Pushmo) series ![GitHub Repo stars](https://img.shields.io/github/stars/josfeldmann/Open-PictoPull)
+- [Open PictoPull](https://github.com/josfeldmann/Open-PictoPull) - A 3D puzzle game based on the [Pushmo](https://en.wikipedia.org/wiki/Pushmo) series. ![GitHub Repo stars](https://img.shields.io/github/stars/josfeldmann/Open-PictoPull)
 
 ### Tower Defense
 - [3D Tower Defense](https://github.com/Mohammed-Benotmane/Tower-Defense-Game) — A 3D simple tower defense game. ![GitHub Repo stars](https://img.shields.io/github/stars/Mohammed-Benotmane/Tower-Defense-Game)
-- [Temple Trashers](https://github.com/hackerspace-ntnu/Temple-Trashers) — A 2D co-op tower defense game. ![GitHub Repo stars](https://img.shields.io/github/stars/hackerspace-ntnu/Temple-Trashers)
+- [Temple Trashers](https://github.com/hackerspace-ntnu/Temple-Trashers) — A 3D co-op tower defense game. ![GitHub Repo stars](https://img.shields.io/github/stars/hackerspace-ntnu/Temple-Trashers)
 - [Tower Defense](https://github.com/JanWalsh91/tower_defense) — A 2D tower defense game. ![GitHub Repo stars](https://img.shields.io/github/stars/JanWalsh91/tower_defense)
 
 ### Vehicles & Racing
